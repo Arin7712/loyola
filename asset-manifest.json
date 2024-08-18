@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loyola/static/css/main.8a8f1212.css",
-    "main.js": "/loyola/static/js/main.0d3e5c81.js",
+    "main.css": "/loyola/static/css/main.22b10cdd.css",
+    "main.js": "/loyola/static/js/main.0661d4eb.js",
     "static/js/453.ed3810f9.chunk.js": "/loyola/static/js/453.ed3810f9.chunk.js",
     "index.html": "/loyola/index.html",
-    "main.8a8f1212.css.map": "/loyola/static/css/main.8a8f1212.css.map",
-    "main.0d3e5c81.js.map": "/loyola/static/js/main.0d3e5c81.js.map",
+    "main.22b10cdd.css.map": "/loyola/static/css/main.22b10cdd.css.map",
+    "main.0661d4eb.js.map": "/loyola/static/js/main.0661d4eb.js.map",
     "453.ed3810f9.chunk.js.map": "/loyola/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a8f1212.css",
-    "static/js/main.0d3e5c81.js"
+    "static/css/main.22b10cdd.css",
+    "static/js/main.0661d4eb.js"
   ]
 }
